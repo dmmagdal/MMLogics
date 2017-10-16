@@ -1,0 +1,20 @@
+
+
+.ORIG x3000
+
+LEA R1,INTRO	;store INTRO message to R1
+LEA R3,R3,0
+PUTS	;print to console INTRO message
+LOOP	BRz R3	
+	GETC	;get input for the number, puts it in R0 
+	ADD R2,R2,R0	;sets R2 to R0
+	ADD R2,R2,#-16
+	ADD R2,R2,#-16
+	ADD R2,R2,#-16	;subtracted 48 to obtain number's ASCII value
+
+END
+HALT
+
+INTRO	.STRINGZ	"Welcome to this conversion program"
+INSTRU	.STRINGZ	"Enter a decimal number or enter X to quit"
+	BR	LOOP

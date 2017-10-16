@@ -1,0 +1,19 @@
+Diego Magdaleno
+dmmagdal
+Lab 3 Decimal Converter
+TA Mike Powell
+
+I used conditons (BR) to make impromptu if statements. These were helpful
+in having branching paths in the event of different inputs (such as x, 
+positive, and negative numbers). The biggest challenge was keeping track 
+the register values so that I can find the right condition code (nzp). 
+Loops helped the program run full circle infinitely (or at least until x 
+was pressed) or run operations such as multiplication or decrementing/
+incrementing counter variables/ register. It was difficult keeping track
+of how to terminate each loop. I used BR for that but again, it took a 
+while tracking the register values to put the proper condition code. Labels
+were a big help in creating the branches for BR and loops. I used them to
+create what are methods/functions in higher level programming languages. 
+I implemented this in creating and labeling sections of my flow chart, 
+and I was able to compartmentalize each component and break down each 
+step into chunks. 

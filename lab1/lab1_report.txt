@@ -1,0 +1,15 @@
+Diego Magdaleno 
+dmmagdal@ucsc.edu
+lab1: Intro to Logic with Multimedia logic
+Sasha Section C
+
+1. I would set up LEDs so that the formed the digital 8 symbol. I would then 
+   set up switches (4 of them) and the combination of switches on and off 
+   correspond to a number in binary. That number would then be displayed on
+   the LED 8 using logic gates and nodes to light up the correct sequence of
+   LEDs.
+
+2. My guess is that the random number generator works by clocking how fast
+   the "ciruit" is working. Minute variations in time are used in creating
+   the random number. Either that or there is a predetermined algorithm that
+   will yield a number that may seem random but is not.

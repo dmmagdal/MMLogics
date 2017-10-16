@@ -1,0 +1,11 @@
+Diego Magdaleno	
+dmmagdal
+TA: Mike Powell
+Lab5: Intro to Uno32 and MIPS
+
+Wow! you guys know how to pick em. The first part was relatively easy, but
+still frustrating to debug. I still don't have one button working even 
+though it theoretically should (It's the special one connected to RF).
+The second part was also difficult in getting the lights to move back
+down the line. To be honest, I ran out of time before I could get that
+coded so it only goes one way. 

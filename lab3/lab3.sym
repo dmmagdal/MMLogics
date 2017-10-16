@@ -1,0 +1,37 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CNVRT                   3021
+//	CRNUM                   3016
+//	END                     3033
+//	EOL                     3034
+//	EXITX                   300D
+//	GETASC                  3037
+//	INCRMNT                 302F
+//	INSTRU                  305B
+//	INTRO                   3038
+//	MASK0                   3089
+//	MASK1                   308A
+//	MASK10                  3093
+//	MASK11                  3094
+//	MASK12                  3095
+//	MASK13                  3096
+//	MASK14                  3097
+//	MASK15                  3098
+//	MASK2                   308B
+//	MASK3                   308C
+//	MASK5                   308E
+//	MASK6                   308F
+//	MASK7                   3090
+//	MASK8                   3091
+//	MASK9                   3092
+//	MASk4                   308D
+//	MULTI                   301C
+//	NEG                     3036
+//	NEGSIGN                 3011
+//	ONE                     3088
+//	PRINTZ                  302D
+//	PSTN                    3027
+//	READ                    3007
+//	STRTPT                  3002
+//	X                       3035
+//	ZERO                    3087

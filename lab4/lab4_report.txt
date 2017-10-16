@@ -1,0 +1,29 @@
+Diego Magdaleno
+dmmagdal
+Lab 4 Ceaser Cipher
+TA: Mike Powell
+
+For this lab, I went with a Row Major array. I used a flag similar to the
+previous lab, this time to tell if the string is to be decrypted or 
+encrypted. Once that was store, I stored the input string to an array 
+using a subroutine I wrote. I also had subroutines that encrypt or 
+decrypt the string, depending on the flag called MODE. Encrypting took 
+the input that was to be the OFFSET and shift the ascii values around 
+for the alphabet and also took into account whether the char in each
+cell is either an upper case or lower case. The same with Decrypting 
+subroutine, although it took the reverse of the OFFSET to calculate. The
+result would be stored in the next row of the array. A final subroutine
+would print both rows of the array, labeled appropriately. 
+
+For example, and string to be encrypted would be printed
+Encrypted: encryptedstring
+Decrypted: originalstring
+
+and a string to be decrypted would be printed
+Encrypted: originalstring
+Decrypted: decryptedstring
+
+.
+
+The biggest challenge of this assignment was managing the minor errors in
+the code that would cause the entire program to print the wrong things.
